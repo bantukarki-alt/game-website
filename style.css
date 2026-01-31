@@ -107,3 +107,46 @@ footer {
 body {
   background: linear-gradient(to right, #0d0d0d, #1a1a1a);
   }
+.logo {
+    width: 80px;
+    height: auto;
+    border-radius: 10px;
+  }body {
+    font-family: Arial;
+    margin: 0;
+    background: linear-gradient(to right, #0d0d0d, #1a1a1a);
+    color: white;
+  }header {
+    background: #ff3c00;
+    padding: 20px;
+    text-align: center;
+  }nav {
+    background: #222;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+    font-weight: bold;
+}.content {
+    background: rgba(255,255,255,0.05);
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px;
+    }footer {
+    background: #000;
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.social a {
+    color: #ff3c00;
+    margin: 10px;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+  }
